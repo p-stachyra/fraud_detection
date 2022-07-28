@@ -1,0 +1,1 @@
+:START_ID,cost:int,step:long,type,amount:double,oldbalanceOrig:double,newbalanceOrg:double,oldbalanceDest:double,newbalanceDest:double,isFraud:long,isFlaggedFraud:long,:END_ID,:TYPE

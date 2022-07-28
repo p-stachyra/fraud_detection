@@ -1,0 +1,6 @@
+,TransactionID,id_01,id_02,id_03,id_04,id_05,id_06,id_07,id_08,id_09,id_10,id_11,id_12,id_13,id_14,id_15,id_16,id_17,id_18,id_19,id_20,id_21,id_22,id_23,id_24,id_25,id_26,id_27,id_28,id_29,id_30,id_31,id_32,id_33,id_34,id_35,id_36,id_37,id_38,DeviceType,DeviceInfo
+0,2987004,0,70787,,,,,,,,,100,NotFound,,-480,New,NotFound,166,,542,144,,,,,,,,New,NotFound,Android 7.0,samsung browser 6.2,32,2220x1080,match_status:2,T,F,T,T,mobile,SAMSUNG SM-G892A Build/NRD90M
+1,2987008,-5,98945,,,0,-5,,,,,100,NotFound,49,-300,New,NotFound,166,,621,500,,,,,,,,New,NotFound,iOS 11.1.2,mobile safari 11.0,32,1334x750,match_status:1,T,F,F,T,mobile,iOS Device
+2,2987010,-5,191631,0,0,0,0,,,0,0,100,NotFound,52,,Found,Found,121,,410,142,,,,,,,,Found,Found,,chrome 62.0,,,,F,F,T,T,desktop,Windows
+3,2987011,-5,221832,,,0,-6,,,,,100,NotFound,52,,New,NotFound,225,,176,507,,,,,,,,New,NotFound,,chrome 62.0,,,,F,F,T,T,desktop,
+4,2987016,0,7460,0,0,1,0,,,0,0,100,NotFound,,-300,Found,Found,166,15,529,575,,,,,,,,Found,Found,Mac OS X 10_11_6,chrome 62.0,24,1280x800,match_status:2,T,F,T,T,desktop,MacOS

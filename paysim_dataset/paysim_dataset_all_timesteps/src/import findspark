@@ -1,0 +1,11 @@
+import findspark
+findspark.init("/home/spark/spark-3.2.1-bin-hadoop3.2")
+from pyspark.ml.regression import LinearRegression
+
+spark = SparkSession.builder.appName("lrex").getOrCreate()
+
+
+# load the training data
+training = spark.read.format("libsvm").load("sample_linear_regression_data.txt")
+print(training.show())
+

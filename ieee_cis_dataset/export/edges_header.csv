@@ -1,0 +1,1 @@
+:START_ID,weight:int,TransactionID:long,isFraud:int,TransactionDT:long,TransactionAmt:float,ProductCD,:END_ID,:TYPE
